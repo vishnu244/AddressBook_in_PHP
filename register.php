@@ -23,7 +23,7 @@
 </body>
 </html>
 
-
+<!-- validating through Email -->
 <?php 
 if(isset($_POST['register']))
 {
